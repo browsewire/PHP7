@@ -1,0 +1,59 @@
+.page-content,.portlet.box > .portlet-body,.table-scrollable > .table,
+.table-striped > tbody > tr:nth-of-type(2n+1){
+background-color:#90EE90;
+}
+.portlet.box.grey-cascade > .portlet-title{
+background-color:#fff;
+
+}
+.portlet.box.grey-cascade > .portlet-title > .caption,
+.portlet.box.grey-cascade > .portlet-title > .caption > i{
+color:#000;
+}
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th,
+.table-scrollable,
+.portlet.box.grey-cascade{
+border-color:#fff;
+}
+table.table-bordered tbody td{
+color:yellow;
+}
+.login-form{
+width:400px;margin:10% auto;
+
+}
+.login-form-inner{
+padding:10px;
+border:1px solid #000;
+width:100%;
+float:left
+}
+.login-form label{
+width:100%;
+float:left;
+color:#000;
+font-size:14px;
+
+}
+
+.login-form input{
+width:100%;
+float:left;
+color:#000;
+font-size:14px;
+border:1px solid #000;
+padding:5px;
+margin:5px 0px;
+}
+
+.login-form .button{
+margin:5px auto;
+width:200px;
+display:block;
+float:unset;
+}
+p.error{
+color:#ff0000;
+margin:0px;
+}
